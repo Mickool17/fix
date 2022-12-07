@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400331756480",
+    "project_id": "flutter-bowen-cab",
+    "storage_bucket": "flutter-bowen-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400331756480:android:030fed592b507a4556ee25",
+        "android_client_info": {
+          "package_name": "com.pixel.bowencab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400331756480-bajhvp2r0tmfuu2ri5skbjvt34juc9j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbofOOfvFjMMqMG8M2DlejdlZsHKPJiak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400331756480-bajhvp2r0tmfuu2ri5skbjvt34juc9j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
